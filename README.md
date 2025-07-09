@@ -1,5 +1,5 @@
 # latex-mathml-converter
-一个用于LaTeX数学公式与MathML格式互相转换的JavaScript库，支持浏览器和Node.js环境。
+一个用于LaTeX数学公式与MathML格式互相转换
 核心功能:
 LaTeX → MathML 转换
 MathML → LaTeX 转换
